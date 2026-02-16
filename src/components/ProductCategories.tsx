@@ -84,7 +84,7 @@ export function ProductCategories() {
                     </span>
                   ))}
                 </div>
-                <a href="#" className="inline-flex items-center gap-1.5 text-sm font-medium text-primary group-hover:gap-2.5 transition-all">
+                <a href="/products/cryoconnect" className="inline-flex items-center gap-1.5 text-sm font-medium text-primary group-hover:gap-2.5 transition-all">
                   Explore <ArrowRight className="h-3.5 w-3.5" />
                 </a>
               </div>
